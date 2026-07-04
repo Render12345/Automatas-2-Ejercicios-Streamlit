@@ -1,0 +1,16 @@
+UPDATE=1
+SET=2
+WHERE=3
+IDF=4
+NUM=5
+CADENA=6
+ASIG=7
+COMA=8
+PYC=9
+WS=10
+'UPDATE'=1
+'SET'=2
+'WHERE'=3
+'='=7
+','=8
+';'=9
